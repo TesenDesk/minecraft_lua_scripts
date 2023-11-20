@@ -19,6 +19,9 @@ After launch, enter the name of the mod or block (unfinished name is supported) 
 Then enter the search radius and the delay between searches. If you do not enter anything, the default values will be entered.  
 The script will tell you which blocks are found nearby and their coordinates relative to you (if you are using a pocket computer) or the computer block  
 If you see the line 'Blocks found' and then immediately 'End of list', this means no such blocks were found in the specified radius
+![img](https://raw.githubusercontent.com/TesenDesk/minecraft_lua_scripts/main/img/1.png)
+![img](https://raw.githubusercontent.com/TesenDesk/minecraft_lua_scripts/main/img/2.png)
+![img](https://raw.githubusercontent.com/TesenDesk/minecraft_lua_scripts/main/img/found%20clay.png)
 
 ### MekanismReactorController
 Script to control the reactor, prevent it from melting and control players approaching the reactor.  
