@@ -2,7 +2,7 @@
 Scripts for minecraft lua mods
 
 **Installing any script**  
-Download the file blockScanner/scanner.lua and put it in a folder with your in-game computer filesystem.  
+Download the file from any folder and put it in a folder with your in-game computer filesystem.  
 If you are not sure how to do this , here are instructions:  
 1. Create a folder with your computer. The easiest way to do this is to create any file. Open the command line by clicking on your computer or pocket computer and enter `edit filename` and press Enter. You can try just pasting the code, but this doesn't always work. Press ctrl + v. If you can see the whole code and not just the first line, you don't have to do steps 2 and 3.  Then press Ctrl, select 'Save' and press Enter. Press Ctrl again, select Exit and press Enter.
 2. Find out your computer's ID. To do this, write `lua` in the computer console and press Enter. Next, type `os.getComputerID()` and press Enter. Your computer ID will be displayed. If this is the first computer in your world, its ID will probably be zero. Please note that if you break your computer and put it back on again, it will be assigned a new ID and a new file system
