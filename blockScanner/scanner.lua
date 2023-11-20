@@ -12,7 +12,7 @@ if answer == "" then blockname = defblock
 else blockname = answer
 end
 
-print("Enter radius of scanning (max = 16) [Default = " .. defrad .. "]")
+print("Enter radius of scanning (max = ".. p.getConfiguration()['scanBlocks']['maxCostRadius'] ..") [Default = " .. defrad .. "]")
 answer = tonumber(read())
 if answer == nil then rad = defrad
 else rad = answer
