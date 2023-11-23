@@ -15,6 +15,7 @@ A simple script to search for specific blocks.
 Scans the area around a player or block and filters the resulting list of blocks.
 Displays the found blocks and their location.  
 Uses a 'Geo Scanner' block from the 'Advanced Peripherals' mod (version 1.20.1-0.7.32b)  
+All you need is the `Advanced Geo Pocket Computer` from the advanced peripherals mod. Perhaps the non-advanced one will do, but it does not support colors, and the cost does not vary much :D  
 After launch, enter the name of the mod or block (unfinished name is supported) For example, by entering `cul` the script will find blocks mysticalagri**cul**ture:prosperity_ore and minecraft:s**cul**k_sensor.
 Then enter the search radius and the delay between searches. If you do not enter anything, the default values will be entered.  
 The script will tell you which blocks are found nearby and their coordinates relative to you (if you are using a pocket computer) or the computer block  
